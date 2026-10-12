@@ -60,4 +60,7 @@ A Flutter attendance application with location-based checks and backend integrat
 
 ## Let's connect
 
-For Flutter development opportunities, reach me on [LinkedIn](https://www.linkedin.com/in/moelsayed1).
+For Flutter development opportunities, reach me via:
+
+- [LinkedIn](https://www.linkedin.com/in/moelsayed1)
+- [Email — mostafaembaby19@gmail.com](mailto:mostafaembaby19@gmail.com)

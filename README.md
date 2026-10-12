@@ -1,16 +1,39 @@
-## Hi there 👋
+Hi, I'm Mostafa Elsayed
+Flutter Mobile Application Developer
+I build mobile applications with Flutter and Dart, with 3+ years of experience across freelance and software-house projects. My work spans fitness, e-commerce, delivery, and attendance applications.
+I take mobile projects from UI implementation to connected application flows: state management, REST API integration, authentication, push notifications, and Arabic/English support.
+LinkedIn · Explore my repositories
+What I work with
+Area	Technologies
+Mobile development	Flutter, Dart
+State management	BLoC / Cubit, Provider, GetX
+Architecture	MVVM, feature-based organization
+Backend integration	REST APIs, Dio
+Firebase	Authentication, Cloud Messaging, Cloud Firestore
+App features	Push notifications, pagination, localization, location services
+Version control	Git, GitHub
 
-<!--
-**moelsayed1/moelsayed1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Featured projects
+Track Fit — Fitness & Coaching
+Developed the Flutter mobile application end to end, connecting client onboarding, workout plans, exercise guidance, progress reports, subscriptions, and supplement shopping to a separate backend.
+- Implemented workout filtering, favorites, and sequential exercise unlocking.
+- Integrated push notifications and Arabic/English interfaces.
+- Built the exercise camera and feedback UI; AI motion analysis is not yet integrated.
+Flutter · Cubit · REST APIs · Firebase Cloud Messaging
+View project details and screenshots
+Awlad Khedr — Customer App
+A Flutter e-commerce application with backend integration and paginated product loading.
+Flutter · Provider · REST APIs
+Awlad Khedr — Delivery App
+The companion Flutter application for the delivery side of the Awlad Khedr platform.
+Flutter · Dart · API Integration
+Attend — Attendance App
+A Flutter attendance application with location-based checks and backend integration.
+Flutter · GetX · Geolocation · REST APIs
+About me
+- B.Sc. in Computer Science, Modern Academy, Egypt — 2022.
+- Experience delivering client mobile applications independently and within a software house.
+- Based in Egypt and available for Flutter roles and freelance projects.
+Let's connect
+For Flutter development opportunities, reach me on LinkedIn.
